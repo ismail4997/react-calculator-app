@@ -1,0 +1,70 @@
+.addSign {
+    background-color: brown;
+}
+
+.equals {
+    border-bottom-right-radius: 2rem;
+}
+
+.zero {
+    border-bottom-left-radius: 2rem;
+}
+
+.button {
+    border: none;
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+    border-radius: 2rem;
+    height: 22rem;
+    outline: none;
+    width: 23rem;
+    margin-top: 50px;
+}
+
+.CE {
+    width: 65px;
+    height: 65px;
+    border: none;
+    border-radius: 100px;
+    background-color: rgb(0, 0, 0);
+    font-size: large;
+    margin-left: 23px;
+    margin-top: 0.75px;
+    margin-right: 0.5px;
+    color: rgb(206, 163, 21);
+    border: none;
+    box-shadow: 0px .5px 2px rgb(197, 167, 32);
+}
+
+.operations {
+    width: 65px;
+    height: 65px;
+    border: none;
+    border-radius: 100px;
+    background-color: rgb(0, 0, 0);
+    font-size: large;
+    margin-left: 23px;
+    margin-top: 0.75px;
+    margin-right: 0.5px;
+    color: rgb(216, 95, 14);
+    border: none;
+    box-shadow: 0px .5px 2px rgb(211, 93, 14);
+}
+
+.clear {
+    width: 65px;
+    height: 65px;
+    border: none;
+    border-radius: 100px;
+    background-color: rgb(0, 0, 0);
+    font-size: large;
+    margin-left: 23px;
+    margin-top: 0.75px;
+    margin-right: 0.5px;
+    color: rgb(46, 206, 14);
+    border: none;
+    box-shadow: 0px .5px 2px rgb(46, 206, 14);
+}
